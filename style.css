@@ -94,7 +94,7 @@ form button:hover {
 }
 
 .fall {
-    transform: translateY(8rem) rotateZ(20deg);
+    transform: translateY(8rem);
     opacity: 0;
 }
 
